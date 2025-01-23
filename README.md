@@ -1,4 +1,4 @@
-# 🔐 Security Analysis Tools -URL Detection for XSS Attack 🚨
+# 🔐 Security Analysis Tools - URL Detection for XSS Attack 🚨
 Welcome to the Security Analysis Tools project! This project uses a comprehensive XSS detection mechanism to analyze and classify URLs as safe or potentially harmful. This tool helps detect malicious links, especially those attempting **Cross-Site Scripting (XSS) attacks**.
 
 ---------------------------
